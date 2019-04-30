@@ -39,3 +39,47 @@
 - [ ] James Anderson
 - [ ] Denis Ritchier
 - [ ] Bill Gates
+
+## Cyber adversary motivations include which of the following:
+- [ ] Curiosity
+- [x] All theses answers
+- [ ] Politics
+- [ ] Money
+
+## Heuristic attacks can be countered with
+- [x] Complexity
+- [ ] Size
+- [ ] Time
+- [ ] Intelligence
+
+## Which of the following is an advantage of more reactive syber defense (vesus proactive defense)?
+- [ ] Less false positives
+- [x] More vendor options
+- [ ] Fewer vendor options
+- [ ] Less false negatives
+
+## Who is famous for insisting on the fact that proving the existence of one problem does not demonstrate the absence of others
+- [ ] Ken Thompson
+- [ ] Alan Turing
+- [ ] James Anderson
+- [x] E. Dijkstra
+
+## The couple "Active entity/Asset" is seen through the Reference Monitor as?
+- [x] Subject/Object model
+- [ ] Security system parameters
+- [ ] Object/Subject program
+- [ ] Security enabler
+
+## Brute force attacks can be countered with
+- [ ] Complexity
+- [ ] None of these answers
+- [x] Size
+- [ ] Firewalls
+
+## A typical availability threat is?
+- [ ] A malware
+- [ ] A virus
+- [ ] Buffer overflow
+- [x] A denial of service
+
+
