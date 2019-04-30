@@ -82,4 +82,32 @@
 - [ ] Buffer overflow
 - [x] A denial of service
 
+## Let's talk about adversary types: we can say that Hacktivists are?
+- [ ] Motivted by curiosity
+- [ ] Motivated by greed
+- [ ] Motivated by dominance
+- [x] Motivated by anger
 
+## Embedding a trap door into a login program results in which of the following:
+- [ ] Login that requires encryption
+- [x] Improved version of the login
+- [ ] Compliant version of the code
+- [ ] A trojan horse
+
+## Let's talk about adversary types: we can say that vandals are?
+- [ ] Motivated by anger
+- [ ] Motivated by dominance
+- [ ] Motivated by greed
+- [x] Motivated by curiosity
+
+## A malicious worm program is characterized by the following fundamental attribute:
+- [x] Auto-propagation
+- [ ] Local installation
+- [ ] Multi-stage
+- [ ] More complex than Trojan horse
+
+## What's the equivalent of the Nobel Prize of computing
+- [ ] Carnegie Mellon Prize
+- [ ] Bletchely Award
+- [x] Turing award
+- [ ] Japan Prize
