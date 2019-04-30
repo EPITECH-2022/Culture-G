@@ -135,3 +135,15 @@
 - [x] Vulnerarabilities other weakness
 - [ ] No appreciable difference
 - [ ] One is an attack, other is not
+
+## In general, integrity threats involve?
+- [ ] Lack of trust
+- [x] Problems in memory
+- [ ] Need for budget
+- [ ] Malicious computing assets
+
+## A typical integrity threat may concern
+- [ ] None of these answers
+- [ ] Communication integrity
+- [ ] Encryption
+- [x] Buffer overflow
