@@ -80,7 +80,7 @@
 - [ ] A malware
 - [ ] A virus
 - [ ] Buffer overflow
-- [x] A denial of service
+- [x] A denial of service attack
 
 ## Let's talk about adversary types: we can say that Hacktivists are?
 - [ ] Motivted by curiosity
@@ -111,3 +111,27 @@
 - [ ] Bletchely Award
 - [x] Turing award
 - [ ] Japan Prize
+
+## Encryption hard wirted between, for example, 2 buildings is called?
+- [x] Link encryption
+- [ ] Secrecy technique
+- [ ] End-to-end encryption
+- [ ] None of these answers
+
+## What is the program "Morris Worm"?
+- [ ] A ransom malware
+- [ ] An error in programming
+- [x] Infect 10% of world's computer
+- [ ] Set up to clog all networks
+
+## What does Thompson think about breaking into a computer system?
+- [ ] Trust programmers not to do it
+- [ ] Kids can do it
+- [x] Press is responsible, bad light
+- [ ] Must be legally punished
+
+## The difference between a hurricane knocking out a data center and a malicious hacker knocking out the same data center is:
+- [ ] Both involve vulnerability
+- [x] Vulnerarabilities other weakness
+- [ ] No appreciable difference
+- [ ] One is an attack, other is not
